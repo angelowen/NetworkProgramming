@@ -1,0 +1,10 @@
+執行方式:
+    1. make
+    2. sudo ./hw3 -r "pcap_filename" 
+其他功能:
+    a. sudo ./hw3 -> 開啟瀏覽器
+    b. sudo ./hw3 filter(ex:tcp) 
+        可過濾掉tcp以外的封包
+    c. sudo ./hw3 -r "pcap_filename" filter(ex:tcp)
+
+    
